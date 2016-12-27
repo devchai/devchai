@@ -23,7 +23,7 @@ github_username: devchai
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-slate
+theme: jekyll-theme-merlot
 gems:
   - jekyll-feed
 exclude:
